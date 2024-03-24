@@ -78,9 +78,11 @@ RegisterNumber: 212223240087
 **HALF ADDER:**
 
 ![exp 3 waveform add](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/f88fecb2-e4cb-4721-a902-aa070d69b760)
+
 **HALF SUBTRACTOR:**
 
 ![exp 3 waveform sub](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/bb78044c-fd53-45b1-a988-a2bca3e31191)
 
 **Result:**
+
 Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
