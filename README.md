@@ -69,6 +69,7 @@ RegisterNumber: 212223240087
 **HALF ADDER:**
 
 ![exp 3 rtl output hadd ](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/fa51e73f-3e19-47d3-a18e-a3878fe3f680)
+
 **HALF SUBTRACTOR:**
 
 ![exp 3 rtl output hsub ](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/e87677fe-a662-49bc-881c-8954e4742a82)
