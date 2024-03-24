@@ -56,19 +56,31 @@ Developed by: MIDHUN S
 RegisterNumber: 212223240087
 ```
 **CODE:**
+
 **HALF ADDER:**
+
 ![exp 3 half adder program ](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/67ae384f-bb0d-4ced-a160-418f5ff13024)
 **HALF SUBTRACTOR:**
+
 ![exp 3 half subtractor program ](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/abecc47f-e78f-4396-bc8d-b075e1a134e9)
+
 **RTL Schematic:**
+
 **HALF ADDER:**
+
 ![exp 3 rtl output hadd ](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/fa51e73f-3e19-47d3-a18e-a3878fe3f680)
 **HALF SUBTRACTOR:**
+
 ![exp 3 rtl output hsub ](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/e87677fe-a662-49bc-881c-8954e4742a82)
+
 **Output/TIMING Waveform:**
+
 **HALF ADDER:**
+
 ![exp 3 waveform add](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/f88fecb2-e4cb-4721-a902-aa070d69b760)
 **HALF SUBTRACTOR:**
+
 ![exp 3 waveform sub](https://github.com/23003250/HALF_ADDER_SUBTRACTOR/assets/139331462/bb78044c-fd53-45b1-a988-a2bca3e31191)
+
 **Result:**
 Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
